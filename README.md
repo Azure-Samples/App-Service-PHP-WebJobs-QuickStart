@@ -1,6 +1,6 @@
 # App Service PHP WebJobs QuickStart
 
-Getting started with Azure App Service WebJobs using Python. Deploy and run your first Python WebJob on App Service. This WebJob outputs the current time to the console.
+Getting started with Azure App Service WebJobs using PHP. Deploy and run your first PHP WebJob on App Service. This WebJob outputs the current time to the console.
 
 ### Prerequisites
 You need to have an App Service Plan and Web App using PHP 8.4 to run this application.
